@@ -15,11 +15,9 @@
   <img align="center" alt="C#" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
   <img align="center" alt="React" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Arduino" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
- 
- ### Aqui embaixo você pode ver um pouco mais sobre minhas habilidades e entrar em contato comigo!
 </div>
  
-
+### Aqui embaixo você pode ver um pouco mais sobre minhas habilidades e entrar em contato comigo!
  
 <div> 
  <h2 dir="auto"></h2>
