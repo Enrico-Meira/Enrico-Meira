@@ -1,6 +1,6 @@
 ![8351171](https://user-images.githubusercontent.com/112671040/213014116-c1859ec0-1475-492e-be60-cca6b5dcadc1.gif)
 
-## Sente-se, e aproveite a estadia 📚
+## Sente-se e aproveite a estadia 📚
 
  <div align="center">
    <a href="https://github.com/Enrico-Meira">
