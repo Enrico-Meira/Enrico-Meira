@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Aqui embaixo você pode ver um pouco mais sobre as linguagens que tenho conhecimento e até mesmo entrar em contato comigo!
  
 <div> 
  <a href="http://bit.ly/3waiXWd" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1BD741?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
