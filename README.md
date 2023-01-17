@@ -17,12 +17,11 @@
   <img align="center" alt="Arduino" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
  
- <br>
+ 
  
   ### Aqui embaixo você pode ver um pouco mais sobre minhas habilidades e entrar em contato comigo!
  
 <div> 
- 
  <h2 dir="auto"></h2>
  <a href="http://bit.ly/3waiXWd" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1BD741?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:enrico.depaulameira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
