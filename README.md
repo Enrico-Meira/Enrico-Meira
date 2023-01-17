@@ -17,7 +17,7 @@
   <img align="center" alt="Arduino" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
  
- 
+ <br>
  
   ### Aqui embaixo você pode ver um pouco mais sobre minhas habilidades e entrar em contato comigo!
  
