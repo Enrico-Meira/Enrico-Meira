@@ -4,8 +4,8 @@
 
  <div>
    <a href="https://github.com/Enrico-Meira">
-   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Enrico-Meira&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-Meira&layout=compact&langs_count=6&theme=kacho_ga"/>
+   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Enrico-Meira&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-Meira&layout=compact&langs_count=6&theme=material-palenight"/>
 
 </div>
 <div style="display: inline_block"><br>
